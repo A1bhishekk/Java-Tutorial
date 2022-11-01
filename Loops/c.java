@@ -1,7 +1,8 @@
-package b;
-public class d {
+package Loops;
+
+public class c {
     public static void main(String[] args) {
-        int a=50 , b=20;
+        int a=30 , b=20;
 
         System.out.println(a+b);
         System.out.println(a-b);
@@ -11,3 +12,4 @@ public class d {
     }
 
 }
+
